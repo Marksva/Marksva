@@ -5,7 +5,7 @@
 
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=marksva&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksva&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksva&hide=javascript,html,css)](https://github.com/marksva/github-readme-stats)
 
 
 ### Tecnologias que eu uso no meu dia 
