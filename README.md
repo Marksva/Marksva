@@ -2,11 +2,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marksilvaa/)
 
 
-
+<a href="https://github.com/Marksva">
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=marksva&show_icons=true&theme=tokyonight)
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksva&layout=compact)](https://github.com/marksva/github-readme-stats)
-
+<a href="https://github.com/Marksva">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksva&layout=compact)](https://github.com/marksva)
+</a>
 
 
 ### Tecnologias que eu uso no meu dia 
