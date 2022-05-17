@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marksilvaa/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marksva&layout=compact)](https://github.com/Marksva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marksva&layout=compact)](https://github.com/Marksva)
 
 
 ### Tecnologias que eu uso no meu dia 
